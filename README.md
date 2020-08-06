@@ -1,24 +1,5 @@
 # vue-koa-vant
 
-## Project setup
-```
-yarn install
-```
+## vue+koa2+vant UI技术栈搭建的移动电商项目
 
-### Compiles and hot-reloads for development
-```
-yarn serve
-```
-
-### Compiles and minifies for production
-```
-yarn build
-```
-
-### Lints and fixes files
-```
-yarn lint
-```
-
-### Customize configuration
-See [Configuration Reference](https://cli.vuejs.org/config/).
+![Image text](https://github.com/SheriSzeto/vue-koa-vant/blob/master/intro.png)
